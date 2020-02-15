@@ -1,6 +1,6 @@
 # 学习笔记
 
-## [Dive-Into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
+## [Dive-Into-DL PyTorch版](https://github.com/ShusenTang/Dive-into-DL-PyTorch)
 
 [01_linear_regression](https://github.com/X-zhazhaxi/Dive-into-DL-PyTorch/blob/master/01_linear_regression.ipynb)
 
