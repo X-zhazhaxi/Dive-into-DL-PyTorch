@@ -31,4 +31,4 @@
 
 [12_循环神经网络](https://github.com/X-zhazhaxi/Dive-into-DL-PyTorch/blob/master/12_%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.ipynb)      
 
-持续更新ing
+[13_ModernRNN](https://github.com/X-zhazhaxi/Dive-into-DL-PyTorch/blob/master/13_ModernRNN.ipynb)
